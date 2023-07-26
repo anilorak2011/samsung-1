@@ -3,7 +3,7 @@ body {
     background-color: aqua;
 }
 .logo{
-    height:100 px;
+    height: 100 px;
     width: 100 px;
 }
 nav {
@@ -12,7 +12,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    font-size: 20 px;
+    font-size 20 px;
     color:  RGB (0, 0, 0);
     margin: 30  px;
 }
@@ -34,7 +34,7 @@ the main table, h2{
     justify-content: center;
 }
 footer table{
-    background-color: light grey;
+    background color: light grey;
     border:5 px solid gray ;
     border-radius: 10 px;
 }
@@ -46,6 +46,6 @@ a{
     justify-content: flex-end;
     color: black;
     text-decoration: none;
-     font-size: 20 px;
+     font-size 20 px;
       margin: 30 px;
 }
