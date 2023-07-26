@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+.logo{
+    height:100 px;
+    width: 100 px;
+}
+nav {
+    border-bottom: 1 px dashed navy;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20 px;
+    color:  rgb(0, 0, 0);
+    margin: 30  px;
+}
+main p{
+    display: flex;
+    justify-content: space-around;
+}
+main table{
+    background-color: blue;
+}
+td img{
+    height: 300 px;
+}
+main tr, main td{
+    border:10 px solid darkblue;
+}
+main table, h2{
+    display: flex;
+    justify-content: center;
+}
+footer table{
+    background-color: lightgrey;
+    border:5 px solid gray ;
+    border-radius: 10 px;
+}
+p img{
+    height: 30 px;
+}
+ a{
+    display: flex;
+    justify-content: flex-end;
+    color: black;
+    text-decoration: none;
+     font-size: 20 px;
+      margin: 30 px;
+}
