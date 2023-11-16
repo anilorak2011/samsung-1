@@ -3,48 +3,49 @@ body {
     background-color: aqua;
 }
 .logo{
-    height:100 px;
-    width: 100 px;
+    height:100px;
+    width: 100px;
 }
 nav {
-    border-bottom: 1 px dashed navy;
+    border-bottom: 1px dashed navy;
 }
+
 nav a {
     text-decoration: none;
-    font-size:20 px;
-    color: black
-    margin:30 px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 30px;
 }
 main p{
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
 }
 main table{
     background-color: blue;
 }
 td img{
-    height: 300 px;
+    height: 300px;
 }
 main tr, main td{
-    border:10 px solid darkblue;
+    border:10px solid darkblue;
 }
-the main table, h2{
+main table, h2{
     display: flex;
     justify-content: center;
 }
 footer table{
-    background color: light grey;
-    border:5 px solid gray ;
+    background-color: lightgrey;
+    border:5px solid gray ;
     border-radius: 10px;
 }
 p img{
-    height: 30 px;
+    height: 30px;
 }
 a{
     display: flex;
     justify-content: flex-end;
     color: black;
     text-decoration: none;
-    font-size:20 px;
-    margin: 30 px;
+    font-size: 20px;
+    margin: 30px;
 }
